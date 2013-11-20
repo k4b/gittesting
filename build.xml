@@ -1,0 +1,5 @@
+<project name="gittesting"
+         xmlns:artifact="antlib:org.apache.maven.artifact.ant" 
+         xmlns:ivy="antlib:org.apache.ivy.ant">
+  <description>Project for testing Git actions</description>
+</project>
